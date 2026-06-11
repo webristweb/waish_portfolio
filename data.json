@@ -1,0 +1,182 @@
+{
+  "personal": {
+    "name": "Waish Alam",
+    "title": "Data Scientist",
+    "email": "waishalam11@gmail.com",
+    "phone": "+91 9625261901",
+    "location": "Fatehgarh Sahib, Punjab",
+    "github": "https://github.com/Waish786",
+    "linkedin": "https://www.linkedin.com/in/waish-alam-2a6288335?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "instagram": "https://www.instagram.com/waish0035?igsh=MWV0YjZ3ZDRobmpucg==",
+    "whatsapp": "https://wa.me/919625261901"
+  },
+  "about": {
+    "description": [
+      "I'm an aspiring Data Scientist with strong foundations in Python, SQL, machine learning, and data visualization, along with practical experience in real-world analytics and AI projects.",
+      "I'm passionate about extracting meaningful insights from complex datasets and building predictive models to solve business problems. Currently completing my B.Tech in Computer Science & Engineering from IKGPTU.",
+      "I completed 6-month industrial training at Ducat Noida in Python, SQL, Machine Learning, and Data Analysis, working on real-world datasets and building multiple ML projects using Pandas, NumPy, Scikit-learn, and Matplotlib."
+    ],
+    "features": [
+      {
+        "icon": "📊",
+        "title": "Data Analysis Expert",
+        "description": "Skilled in data cleaning, preprocessing, EDA, and extracting actionable insights."
+      },
+      {
+        "icon": "🤖",
+        "title": "ML Enthusiast",
+        "description": "Experienced in building predictive models using regression, classification, and deep learning."
+      },
+      {
+        "icon": "📚",
+        "title": "Continuous Learner",
+        "description": "Constantly learning new techniques and tools in data science and AI."
+      },
+      {
+        "icon": "💡",
+        "title": "Problem Solver",
+        "description": "Strong analytical mindset with focus on data-driven solutions to business problems."
+      }
+    ]
+  },
+  "skills": {
+    "categories": [
+      {
+        "icon": "🐍",
+        "title": "Programming",
+        "skills": ["Python", "SQL", "MySQL", "PostgreSQL"]
+      },
+      {
+        "icon": "📊",
+        "title": "Data Analysis",
+        "skills": ["Pandas", "NumPy", "Data Cleaning", "EDA", "Statistics"]
+      },
+      {
+        "icon": "📈",
+        "title": "Visualization",
+        "skills": ["Matplotlib", "Seaborn", "Power BI", "Excel"]
+      },
+      {
+        "icon": "🤖",
+        "title": "Machine Learning",
+        "skills": ["Scikit-learn", "Regression", "Classification", "Model Evaluation", "Feature Engineering"]
+      },
+      {
+        "icon": "🧠",
+        "title": "Deep Learning",
+        "skills": ["ANN", "CNN", "TensorFlow", "Keras", "NLP"]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Tools",
+        "skills": ["Jupyter Notebook", "Google Colab", "VS Code", "GitHub"]
+      }
+    ],
+    "progress": [
+      { "name": "Python Programming", "percentage": 90 },
+      { "name": "SQL & Databases", "percentage": 85 },
+      { "name": "Data Analysis (Pandas/NumPy)", "percentage": 88 },
+      { "name": "Machine Learning", "percentage": 85 },
+      { "name": "Data Visualization", "percentage": 82 },
+      { "name": "Deep Learning (TensorFlow/Keras)", "percentage": 78 }
+    ]
+  },
+  "projects": [
+    {
+      "icon": "🤖",
+      "status": "Completed",
+      "title": "AI-Based Resume Screening System",
+      "description": "Built an NLP-based resume screening system for automated candidate shortlisting. Matched resumes with job descriptions using machine learning algorithms.",
+      "tech": ["Python", "NLP", "Machine Learning", "Scikit-learn", "Pandas"],
+      "codeLink": "#",
+      "demoLink": "#"
+    },
+    {
+      "icon": "💳",
+      "status": "Completed",
+      "title": "Credit Card Fraud Detection System",
+      "description": "Developed an ML model to detect fraudulent credit card transactions. Performed preprocessing and classification on imbalanced datasets with high accuracy.",
+      "tech": ["Python", "Scikit-learn", "Pandas", "Classification", "Imbalanced Data"],
+      "codeLink": "#",
+      "demoLink": "#"
+    },
+    {
+      "icon": "❤️",
+      "status": "Completed",
+      "title": "Heart Attack Risk Prediction",
+      "description": "Built a predictive ML model using patient health data. Applied feature engineering and classification algorithms for accurate risk prediction.",
+      "tech": ["Python", "Machine Learning", "Feature Engineering", "Classification", "NumPy"],
+      "codeLink": "#",
+      "demoLink": "#"
+    },
+    {
+      "icon": "🌐",
+      "status": "This Project",
+      "title": "Portfolio Website",
+      "description": "Personal portfolio site built with HTML, CSS & JavaScript. Features smooth animations, responsive layout, and modern UI design to showcase skills and projects.",
+      "tech": ["HTML5", "CSS3", "JavaScript", "Responsive"],
+      "codeLink": "#",
+      "demoLink": "#"
+    }
+  ],
+  "education": [
+    {
+      "year": "2022 — 2026",
+      "icon": "🎓",
+      "degree": "B.Tech — Computer Science & Engineering",
+      "institution": "Baba Banda Singh Bahadur Engineering College, Punjab (IKGPTU)",
+      "description": "Currently pursuing Bachelor of Technology in Computer Science & Engineering from I.K. Gujral Punjab Technical University, specializing in Data Science, Machine Learning, and AI.",
+      "subjects": ["Data Science", "Machine Learning", "Python Programming", "Database Management"]
+    },
+    {
+      "year": "2020 — 2022",
+      "icon": "📚",
+      "degree": "Intermediate (12th)",
+      "institution": "Government Boys High School, Paharpur",
+      "description": "Completed Higher Secondary education with 69.2% from E. Champaran, building strong analytical and mathematical foundations.",
+      "subjects": ["Mathematics", "Physics", "Chemistry", "Computer Science"]
+    }
+  ],
+  "experience": [
+    {
+      "year": "Present",
+      "icon": "💼",
+      "position": "Intern / Industrial Training",
+      "company": "Ducat Noida Sector 16-A",
+      "description": "Completed 6-month industrial training in Python, SQL, Machine Learning, and Data Analysis. Worked on real-world datasets for data cleaning, preprocessing, visualization, and model building.",
+      "responsibilities": [
+        "Completed comprehensive training in Python, SQL, Machine Learning, and Data Analysis",
+        "Worked on real-world datasets for data cleaning, preprocessing, and visualization",
+        "Built multiple machine learning projects using Pandas, NumPy, Scikit-learn, and Matplotlib",
+        "Strengthened problem-solving skills through hands-on case studies and industry-level assignments",
+        "Gained practical experience in model building, evaluation, and deployment"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "year": "2024",
+      "icon": "🏆",
+      "title": "Data Science Pro Batch",
+      "institution": "Physics Wallah (PW)",
+      "description": "Comprehensive certification covering data science fundamentals, machine learning, deep learning, and real-world project implementation."
+    },
+    {
+      "year": "2024",
+      "icon": "🎓",
+      "title": "Python Programming & Data Analytics Training",
+      "institution": "Ducat, Noida",
+      "description": "6-month industrial training certification in Python programming, SQL, data analytics, and machine learning with hands-on projects."
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "name": "Hindi",
+      "proficiency": "Full Professional Proficiency"
+    }
+  ]
+}
